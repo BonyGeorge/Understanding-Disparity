@@ -1,0 +1,27 @@
+Field,Value
+Title,Food Affordability
+URL,food-affordability-2006-2010
+Description,"This table contains data on the average cost of a market basket of nutritious food items relative to income for female-headed households with children, for California, its regions, counties, and cities/towns.  The ratio uses data from the U.S. Department of Agriculture and the U.S. Census Bureau. The table is part of a series of indicators in the Healthy Communities Data and Indicators Project of the Office of Health Equity. 
+An adequate, nutritious diet is a necessity at all stages of life. Inadequate diets can impair intellectual performance and have been linked to more frequent school absence and poorer educational achievement in children. Nutrition also plays a significant role in causing or preventing a number of illnesses, such as cardiovascular disease, some cancers, obesity, type 2 diabetes, and anemia.
+At least two factors influence the affordability of food and the dietary choices of families – the cost of food and family income. The inability to afford food is a major factor in food insecurity, which has a spectrum of effects including anxiety over food sufficiency or food shortages; reduced quality or desirability of diet; and disrupted eating patterns and reduced food intake.  More information about the data table and a data dictionary can be found in the Attachments."
+Tags,"food affordability,food security,hci,health community indicator,healthy community indicator,social determinants of health"
+Department,California Department of Public Health
+Contact Email,opendata@cdph.ca.gov
+Program,"Office of Health Equity, Healthy Places Team"
+Homepage URL,https://www.cdph.ca.gov/Programs/OHE/Pages/HCI-Search.aspx
+Temporal Coverage,2006-2010
+Spatial/Geographic Coverage,California
+Geographic Granularity,Regional
+Language,English (EN)
+Frequency,Other
+De-Identification Method,
+Source Link,
+Data Collection Tool,
+License,See Terms of Use
+Limitations,Use of this data is subject to the CHHS Terms of Use and any copyright and proprietary notices incorporated in or accompanying the individual files.
+Additional Limitations,
+Additional Information,
+Related Resources,
+Secondary Sources,"""Data source 1: Center for Nutrition Policy and Promotion. Official USDA Food Plans: Average U.S. Cost of Food at Home at Four Levels http://www.cnpp.usda.gov/USDAFoodCost-Home.htm"
+Citation,"Healthy Communities Data and Indicators Project, CDPH and UCSF. 2015."
+Show Twitter Popup,

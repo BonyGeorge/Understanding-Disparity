@@ -1,0 +1,199 @@
+{
+  "accrual_periodicity": "other",
+  "additional_limitations": "",
+  "citation": "Healthy Communities Data and Indicators Project, CDPH and UCSF. 2015.",
+  "contact_email": "opendata@cdph.ca.gov",
+  "data_collection_tool": "",
+  "data_license": "Terms of Use",
+  "de_identification_method": "",
+  "description": "This table contains data on the percent of households paying more than 30% (or 50%) of monthly household income towards housing costs for California, its regions, counties, cities/towns, and census tracts.  Data is from the U.S. Department of Housing and Urban Development (HUD), Consolidated Planning Comprehensive Housing Affordability Strategy (CHAS) and the U.S. Census Bureau, American Community Survey (ACS). The table is part of a series of indicators in the [Healthy Communities Data and Indicators Project of the Office of Health Equity]  Affordable, quality housing is central to health, conferring protection from the environment and supporting family life. Housing costs—typically the largest, single expense in a family's budget—also impact decisions that affect health. As housing consumes larger proportions of household income, families have less income for nutrition, health care, transportation, education, etc.  Severe cost burdens may induce poverty—which is associated with developmental and behavioral problems in children and accelerated cognitive and physical decline in adults.  Low-income families and minority communities are disproportionately affected by the lack of affordable, quality housing.  More information about the data table and a data dictionary can be found in the Attachments.",
+  "geo_coverage": "California",
+  "geographic_granularity": "census tract",
+  "keywords": [
+    "hci",
+    "healthy community indicator",
+    "housing cost burden",
+    "social determinants of health"
+  ],
+  "limitations": "Limitations",
+  "name": "housing-cost-burden-2006-2010",
+  "program_web_page": "https://www.cdph.ca.gov/Programs/OHE/Pages/HCI-Search.aspx",
+  "related_resources": "",
+  "resources": [
+    {
+      "description": "This table contains data on the percent of households paying more than 30% (or 50%) of monthly household income towards housing costs for California, its regions, counties, cities/towns, and census tracts.  Data is from the U.S. Department of Housing and Urban Development (HUD), Consolidated Planning Comprehensive Housing Affordability Strategy (CHAS) and the U.S. Census Bureau, American Community Survey (ACS). The table is part of a series of indicators in the [Healthy Communities Data and Indicators Project of the Office of Health Equity](https://www.cdph.ca.gov/Programs/OHE/Pages/Healthy-Communities-Data-and-Indicators-Project-(HCI).aspx). Affordable, quality housing is central to health, conferring protection from the environment and supporting family life. Housing costs—typically the largest, single expense in a family's budget—also impact decisions that affect health. As housing consumes larger proportions of household income, families have less income for nutrition, health care, transportation, education, etc.  Severe cost burdens may induce poverty—which is associated with developmental and behavioral problems in children and accelerated cognitive and physical decline in adults.  Low-income families and minority communities are disproportionately affected by the lack of affordable, quality housing.  More information about the data table and a data dictionary can be found in the Attachments.",
+      "format": "PDF",
+      "name": "housing-cost-burden-narrative-and-examples",
+      "path": "housing-cost-burden-narrative-and-examples.pdf",
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/4ea8fbae-0d14-4e4a-952e-acb4c813c84c/resource/c697aac1-3bee-47b1-bb46-d7f887d65880/download/hcihousingcostburdenchasandacs106narrative7-11-14.pdf",
+          "title": "Housing Cost Burden Narrative and Examples"
+        }
+      ],
+      "title": "Housing Cost Burden Narrative and Examples"
+    },
+    {
+      "description": "This table contains data on the percent of households paying more than 30% (or 50%) of monthly household income towards housing costs for California, its regions, counties, cities/towns, and census tracts.  Data is from the U.S. Department of Housing and Urban Development (HUD), Consolidated Planning Comprehensive Housing Affordability Strategy (CHAS) and the U.S. Census Bureau, American Community Survey (ACS). The table is part of a series of indicators in the [Healthy Communities Data and Indicators Project of the Office of Health Equity](https://www.cdph.ca.gov/Programs/OHE/Pages/Healthy-Communities-Data-and-Indicators-Project-(HCI).aspx). Affordable, quality housing is central to health, conferring protection from the environment and supporting family life. Housing costs—typically the largest, single expense in a family's budget—also impact decisions that affect health. As housing consumes larger proportions of household income, families have less income for nutrition, health care, transportation, education, etc.  Severe cost burdens may induce poverty—which is associated with developmental and behavioral problems in children and accelerated cognitive and physical decline in adults.  Low-income families and minority communities are disproportionately affected by the lack of affordable, quality housing.  More information about the data table and a data dictionary can be found in the Attachments.",
+      "format": "XLSX",
+      "name": "housing-cost-burden-2006-2010",
+      "path": "housing-cost-burden-2006-2010.xlsx",
+      "schema": {
+        "fields": [
+          {
+            "name": "ind_id",
+            "type": "number"
+          },
+          {
+            "name": "ind_definition",
+            "type": "string"
+          },
+          {
+            "name": "datasource",
+            "type": "string"
+          },
+          {
+            "name": "reportyear",
+            "type": "string"
+          },
+          {
+            "name": "burden",
+            "type": "string"
+          },
+          {
+            "name": "tenure",
+            "type": "string"
+          },
+          {
+            "name": "race_eth_code",
+            "type": "number"
+          },
+          {
+            "name": "race_eth_name",
+            "type": "string"
+          },
+          {
+            "name": "income_level",
+            "type": "string"
+          },
+          {
+            "name": "geotype",
+            "type": "string"
+          },
+          {
+            "name": "geotypevalue",
+            "type": "number"
+          },
+          {
+            "name": "geoname",
+            "type": "string"
+          },
+          {
+            "name": "county_name",
+            "type": "string"
+          },
+          {
+            "name": "county_fips",
+            "type": "number"
+          },
+          {
+            "name": "region_name",
+            "type": "string"
+          },
+          {
+            "name": "region_code",
+            "type": "number"
+          },
+          {
+            "name": "total_households",
+            "type": "number"
+          },
+          {
+            "name": "burdened_households",
+            "type": "number"
+          },
+          {
+            "name": "percent",
+            "type": "number"
+          },
+          {
+            "name": "LL95CI",
+            "type": "number"
+          },
+          {
+            "name": "UL95CI",
+            "type": "number"
+          },
+          {
+            "name": "SE",
+            "type": "number"
+          },
+          {
+            "name": "rse",
+            "type": "number"
+          },
+          {
+            "name": "CA_decile",
+            "type": "string"
+          },
+          {
+            "name": "CA_RR",
+            "type": "number"
+          },
+          {
+            "name": "version",
+            "type": "datetime"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/4ea8fbae-0d14-4e4a-952e-acb4c813c84c/resource/5c7ad34f-f14b-4056-81c5-3df113a6e14b/download/hci_acs_chas_raceincome_housingcostburden_ct_pl_co_re_st_7-30-14-ada.xlsx",
+          "title": "Housing Cost Burden, 2006-2010"
+        }
+      ],
+      "title": "Housing Cost Burden, 2006-2010"
+    },
+    {
+      "description": "This table contains data on the percent of households paying more than 30% (or 50%) of monthly household income towards housing costs for California, its regions, counties, cities/towns, and census tracts.  Data is from the U.S. Department of Housing and Urban Development (HUD), Consolidated Planning Comprehensive Housing Affordability Strategy (CHAS) and the U.S. Census Bureau, American Community Survey (ACS). The table is part of a series of indicators in the [Healthy Communities Data and Indicators Project of the Office of Health Equity](https://www.cdph.ca.gov/Programs/OHE/Pages/Healthy-Communities-Data-and-Indicators-Project-(HCI).aspx). Affordable, quality housing is central to health, conferring protection from the environment and supporting family life. Housing costs—typically the largest, single expense in a family's budget—also impact decisions that affect health. As housing consumes larger proportions of household income, families have less income for nutrition, health care, transportation, education, etc.  Severe cost burdens may induce poverty—which is associated with developmental and behavioral problems in children and accelerated cognitive and physical decline in adults.  Low-income families and minority communities are disproportionately affected by the lack of affordable, quality housing.  More information about the data table and a data dictionary can be found in the Attachments.",
+      "format": "XLSX",
+      "name": "housing-cost-burden-data-dictionary",
+      "path": "housing-cost-burden-data-dictionary.xlsx",
+      "schema": {
+        "fields": [
+          {
+            "name": "County_FIPS",
+            "type": "number"
+          },
+          {
+            "name": "County",
+            "type": "string"
+          },
+          {
+            "name": "MPO Region",
+            "type": "string"
+          },
+          {
+            "name": "MPO_Region_code",
+            "type": "number"
+          }
+        ]
+      },
+      "sources": [
+        {
+          "path": "https://data.chhs.ca.gov/dataset/4ea8fbae-0d14-4e4a-952e-acb4c813c84c/resource/fdac78bb-a06b-42d4-b0f0-1458202b244f/download/housingcostburdendd.xlsx",
+          "title": "Housing Cost Burden Data Dictionary"
+        }
+      ],
+      "title": "Housing Cost Burden Data Dictionary"
+    }
+  ],
+  "secondary_sources": "U.S. Department of Housing and Urban Development (HUD), Consolidated Planning Comprehensive Housing Affordability Strategy (CHAS) data (Tables 8 and 9); U.S. Census Bureau, American Community Survey (ACS) (Tables DP04, B25070 and B25091)",
+  "sources": [
+    {
+      "name": "Office of Health Equity, Healthy Places Team"
+    }
+  ],
+  "temporal_coverage": "2006-2010 5 year average",
+  "title": "Housing Cost Burden"
+}
