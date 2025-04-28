@@ -1,0 +1,20 @@
+
+* Converted the datatype of the county_fips to integer to match other datasets.
+* Set the ind_id column to be hidden as all of the fields have the same value of 106.
+* Removed the version column to be hidden as we won't need it.
+* Filtered the total_households column to not include blank rows.
+* Filtered the county_fips column to not include blank rows.
+* Filtered the burdened_households column to not include blank rows.
+* Filtered the rse column to not include blank rows.
+* Filtered the CA_RR column to not include blank rows.
+* Filtered the se column to not include blank rows.
+
+
+* Renamed the data table from APPEND_TABLE to House_Cost_Burden.
+* Removed the empty values from burdened_households.
+* Removed the empty values from percent.
+* Removed the empty values from LL95CI.
+* Excluded the total from the race_eth_name as it only counts the number of race.
+* Created a new column named country_region_name using DAX to concatenate both county_name and region_name, using the following formula:
+	country_region_name = [county_name] & ", " & [region_name]
+* Converted the datatype of the country_region_name to string.
