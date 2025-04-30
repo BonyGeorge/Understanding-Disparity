@@ -19,5 +19,10 @@
 * Removed the empty values from LL95CI.
 
 
-
+Visual:
+BurdenedToNormalPercentage = 
+DIVIDE(
+    SUM([burdened_households]),
+    SUM([total_households])
+)
 
