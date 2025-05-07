@@ -1,0 +1,26 @@
+This slide shows Housing Cost Burden and Income Disparity. This data combines all ethnic groups.
+
+(0:20) On the left, we see Cost Burden by Region.
+
+The bars show the percentage of households spending a large portion of their income on housing, which fall between 35–41%.
+
+Monterey Bay, North Coast, San Diego, Santa Barbara, and Southern California are on the higher end.
+
+(0:55) The blue line shows the number of burdened households.
+
+Southern California stands out with about 43 THOUSAND, followed by the Bay Area with 20,000. Also, some of the region with 7 thousand which is equal to the average line which is IN red.
+
+(1:35) So while percentages are similar, the number of people affected is much higher in Southern California.
+
+
+
+(1:55) On the right, we see the Gini Index by Region which is a measure of income inequality the closer it gets to one means more disparity.
+
+(2:20) Santa Barbara has the highest inequality at 0.46 while The lowest is Central/Southeast Sierra at 0.42.
+
+
+(2:50) In short:
+Many regions had high housing cost burdens, but most affected households were in Southern California.
+
+Also, Income inequality varied here, with Santa Barbara showing the most disparity.
+
